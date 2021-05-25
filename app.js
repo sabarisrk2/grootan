@@ -1,20 +1,20 @@
-// var url1 = "https://mockAPI1.free.beeceptor.com/user1";
-// var url2 = "https://mockAPI1.free.beeceptor.com/user2";
-// var url3 = "https://mockAPI1.free.beeceptor.com/user3";
-// var url4 = "https://mockAPI1.free.beeceptor.com/user4";
-// var url5 = "https://mockAPI1.free.beeceptor.com/user5";
+// var url1 = "https://mockapi1.free.beeceptor.com/user1";
+// var url2 = "https://mockapi1.free.beeceptor.com/user2";
+// var url3 = "https://mockapi1.free.beeceptor.com/user3";
+// var url4 = "https://mockapi1.free.beeceptor.com/user4";
+// var url5 = "https://mockapi1.free.beeceptor.com/user5";
 
-// var url1 = "https://mockAPI2.free.beeceptor.com/user1";
-// var url2 = "https://mockAPI2.free.beeceptor.com/user2";
-// var url3 = "https://mockAPI2.free.beeceptor.com/user3";
-// var url4 = "https://mockAPI2.free.beeceptor.com/user4";
-// var url5 = "https://mockAPI2.free.beeceptor.com/user5";
+var url1 = "https://mockapi2.free.beeceptor.com/user1";
+var url2 = "https://mockapi2.free.beeceptor.com/user2";
+var url3 = "https://mockapi2.free.beeceptor.com/user3";
+var url4 = "https://mockapi2.free.beeceptor.com/user4";
+var url5 = "https://mockapi2.free.beeceptor.com/user5";
 
-var url1 = "https://mockAPI.free.beeceptor.com/user1";
-var url2 = "https://mockAPI.free.beeceptor.com/user2";
-var url3 = "https://mockAPI.free.beeceptor.com/user3";
-var url4 = "https://mockAPI.free.beeceptor.com/user4";
-var url5 = "https://mockAPI.free.beeceptor.com/user5";
+// var url1 = "https://mockAPI.free.beeceptor.com/user1";
+// var url2 = "https://mockAPI.free.beeceptor.com/user2";
+// var url3 = "https://mockAPI.free.beeceptor.com/user3";
+// var url4 = "https://mockAPI.free.beeceptor.com/user4";
+// var url5 = "https://mockAPI.free.beeceptor.com/user5";
 
 const doGet1 = () => {
   const xhr = new XMLHttpRequest();
