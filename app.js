@@ -1,14 +1,14 @@
-// var url1 = "https://mockapi1.free.beeceptor.com/user1";
-// var url2 = "https://mockapi1.free.beeceptor.com/user2";
-// var url3 = "https://mockapi1.free.beeceptor.com/user3";
-// var url4 = "https://mockapi1.free.beeceptor.com/user4";
-// var url5 = "https://mockapi1.free.beeceptor.com/user5";
+var url1 = "https://mockapi1.free.beeceptor.com/user1";
+var url2 = "https://mockapi1.free.beeceptor.com/user2";
+var url3 = "https://mockapi1.free.beeceptor.com/user3";
+var url4 = "https://mockapi1.free.beeceptor.com/user4";
+var url5 = "https://mockapi1.free.beeceptor.com/user5";
 
-var url1 = "https://mockapi2.free.beeceptor.com/user1";
-var url2 = "https://mockapi2.free.beeceptor.com/user2";
-var url3 = "https://mockapi2.free.beeceptor.com/user3";
-var url4 = "https://mockapi2.free.beeceptor.com/user4";
-var url5 = "https://mockapi2.free.beeceptor.com/user5";
+// var url1 = "https://mockapi2.free.beeceptor.com/user1";
+// var url2 = "https://mockapi2.free.beeceptor.com/user2";
+// var url3 = "https://mockapi2.free.beeceptor.com/user3";
+// var url4 = "https://mockapi2.free.beeceptor.com/user4";
+// var url5 = "https://mockapi2.free.beeceptor.com/user5";
 
 // var url1 = "https://mockAPI.free.beeceptor.com/user1";
 // var url2 = "https://mockAPI.free.beeceptor.com/user2";
