@@ -1,8 +1,14 @@
-var url1 = "https://sabarigroot.free.beeceptor.com/user1";
-var url2 = "https://sabarigroot.free.beeceptor.com/user2";
-var url3 = "https://sabarigroot.free.beeceptor.com/user3";
-var url4 = "https://sabarigroot.free.beeceptor.com/user4";
-var url5 = "https://sabarigroot.free.beeceptor.com/user5";
+// var url1 = "https://sabarigrootan.free.beeceptor.com/user1";
+// var url2 = "https://sabarigrootan.free.beeceptor.com/user2";
+// var url3 = "https://sabarigrootan.free.beeceptor.com/user3";
+// var url4 = "https://sabarigrootan.free.beeceptor.com/user4";
+// var url5 = "https://sabarigrootan.free.beeceptor.com/user5";
+
+var url1 = "https://fakeapi3.free.beeceptor.com/user1";
+var url2 = "https://fakeapi3.free.beeceptor.com/user2";
+var url3 = "https://fakeapi3.free.beeceptor.com/user3";
+var url4 = "https://fakeapi3.free.beeceptor.com/user4";
+var url5 = "https://fakeapi3.free.beeceptor.com/user5";
 
 const doGet1 = () => {
   const xhr = new XMLHttpRequest();
